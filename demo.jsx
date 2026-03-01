@@ -1,4 +1,3 @@
-# App-
 import { useState } from "react";
 
 const VENUES = [
